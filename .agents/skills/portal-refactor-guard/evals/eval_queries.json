@@ -1,0 +1,18 @@
+[
+  {
+    "query": "Direct positive prompt asking for portal-refactor-guard task",
+    "should_trigger": true
+  },
+  {
+    "query": "Implicit prompt describing the user goal without mentioning tool name",
+    "should_trigger": true
+  },
+  {
+    "query": "Near-miss negative prompt that shares keywords but needs something else",
+    "should_trigger": false
+  },
+  {
+    "query": "Completely unrelated prompt",
+    "should_trigger": false
+  }
+]
