@@ -1,0 +1,642 @@
+[
+  {
+    "id": "404vmer",
+    "tipo": "multipla_escolha",
+    "opcoes": [
+      {
+        "id": "ivd7ojv",
+        "texto_simples": "É o aniversário da Maria. Os amigos dela estão na escola, todos muito felizes, comendo bolo e jogando futebol."
+      },
+      {
+        "id": "t86sq06",
+        "texto_simples": "É o aniversário do professor. Todos estão muito felizes comendo bolo e ouvindo música junto com a Maria."
+      },
+      {
+        "id": "4wgqmhb",
+        "texto_simples": "É o aniversário da Maria. O personagem está com os amigos, todos estão felizes, comendo bolo e ouvindo música."
+      },
+      {
+        "id": "0kmawnv",
+        "texto_simples": "É o aniversário da Maria. Todos estão ouvindo música, mas não estão felizes porque não comeram o bolo."
+      }
+    ],
+    "enunciado": "<p>Leia o texto abaixo com atenção e identifique a afirmação correta sobre a situação descrita:</p><div>Jīntiān shì Mǎlìyà de shēngrì. Wǒ gēn péngyoumen zài yìqǐ. Dàjiā dōu hěn gāoxìng. Wǒmen chī dàngāo, tīng yīnyuè.<br><i>今天是玛丽亚的生日。我跟朋友们在一起。大家都很高兴。我们吃蛋糕，听音乐。</i></div>",
+    "pontuacao_maxima": 4,
+    "habilidades_testadas": [
+      "leitura",
+      "vocabulario"
+    ],
+    "respostas_corretas_ids": [
+      "4wgqmhb"
+    ],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "gxdzsvz",
+    "tipo": "multipla_escolha",
+    "opcoes": [
+      {
+        "id": "ac9cp35",
+        "texto_simples": "Nǔnuò, nǐ yǒu jǐ zhāng fǎyǔ guāngpán?"
+      },
+      {
+        "id": "54931lf",
+        "texto_simples": "Tāmen dōu xué hànyǔ ma?"
+      },
+      {
+        "id": "tfq7eq8",
+        "texto_simples": "Qiánbāo yǒu duōshao lǐ qián?"
+      },
+      {
+        "id": "2mzc8nc",
+        "texto_simples": "Tā shì wǒ de péngyou Wáng Jiāmíng."
+      }
+    ],
+    "enunciado": "<p>Avalie as frases abaixo apenas em pinyin. Qual das opções contém um erro estrutural (ordem das palavras incorreta)?</p>",
+    "pontuacao_maxima": 3,
+    "habilidades_testadas": [
+      "gramatica",
+      "leitura"
+    ],
+    "respostas_corretas_ids": [
+      "tfq7eq8"
+    ],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "dnbbgfj",
+    "tipo": "ordenacao",
+    "opcoes": [
+      {
+        "id": "u2_i031",
+        "texto_simples": "Tāmen (他们)"
+      }
+    ],
+    "enunciado": "<p>Organize os blocos de palavras abaixo para formar a frase correta em mandarim correspondente a:</p><p>\"Eles não estão aqui. Onde eles estão?\".</p>",
+    "pontuacao_maxima": 5,
+    "ordem_correta_ids": [
+      "bo1aqyd",
+      "dayduzz",
+      "xx1hq0m",
+      "dcse1mz",
+      "yca33z0",
+      "9mjp9r7"
+    ],
+    "itens_para_ordenar": [
+      {
+        "id": "bo1aqyd",
+        "texto_simples": "Tāmen (他们)"
+      },
+      {
+        "id": "dayduzz",
+        "texto_simples": "bù zài (不在)"
+      },
+      {
+        "id": "xx1hq0m",
+        "texto_simples": "zhèlǐ (这里)"
+      },
+      {
+        "id": "dcse1mz",
+        "texto_simples": "tāmen (他们)"
+      },
+      {
+        "id": "yca33z0",
+        "texto_simples": "zài (在)"
+      },
+      {
+        "id": "9mjp9r7",
+        "texto_simples": "nǎlǐ (哪里)"
+      }
+    ],
+    "habilidades_testadas": [
+      "gramatica",
+      "leitura"
+    ]
+  },
+  {
+    "id": "2qxt7xe",
+    "tipo": "preencher_lacunas",
+    "opcoes": [
+      {
+        "id": "u2_o041",
+        "texto_simples": "jǐ"
+      },
+      {
+        "id": "u2_o042",
+        "texto_simples": "sān"
+      },
+      {
+        "id": "u2_o043",
+        "texto_simples": "duōshao"
+      },
+      {
+        "id": "u2_o044",
+        "texto_simples": "shéi"
+      }
+    ],
+    "enunciado": "<p>Leia as frases em português e preencha as lacunas digitando em pinyin (com tons) as palavras interrogativas ou números (em pinyin) que faltam:</p>",
+    "pontuacao_maxima": 6,
+    "texto_com_lacunas": "<p>a) \"Quantos CDs de francês você tem?\" → Nǐ yǒu [___] zhāng fǎyǔ guāngpán?</p><p>b) \"Eu tenho 3 CDs de português.\" → Wǒ yǒu [___] zhāng fǎyǔ pútáoyáyǔ.</p><p>c) \"Quanto dinheiro tem dentro da carteira?\" → Qiánbāo lǐ yǒu [___] qián?</p><p>d) \"Quem você está procurando?\" → Nǐ zhǎo [___]?</p>",
+    "habilidades_testadas": [
+      "vocabulario",
+      "gramatica"
+    ],
+    "respostas_corretas_por_lacuna": {
+      "lacuna_0": [
+        "jǐ",
+        "ji3",
+        "jî",
+        "jí"
+      ],
+      "lacuna_1": [
+        "sān",
+        "san1"
+      ],
+      "lacuna_2": [
+        "duōshao",
+        "duō shao",
+        "duo1shao",
+        "duo1 shao",
+        "duo1shao0",
+        "duo1 shao0",
+        "duōshao0"
+      ],
+      "lacuna_3": [
+        "shéi",
+        "shei2",
+        "shuí",
+        "shui2"
+      ]
+    }
+  },
+  {
+    "id": "i0lgs1j",
+    "tipo": "texto_livre",
+    "opcoes": [
+      {
+        "id": "u2_o051",
+        "texto_simples": "Texto Livre"
+      }
+    ],
+    "enunciado": "<p>Leia a frase abaixo em pinyin e escreva a tradução completa para o português:</p><div>Bù, Āimǐlìyà bù xué hànyǔ, tā xué fǎyǔ.<br><i>不，埃米利亚不学汉语，她学法语。</i></div>",
+    "pontuacao_maxima": 5,
+    "limite_caracteres": 300,
+    "resposta_esperada": "Não, a Emília não estuda chinês (mandarim), ela estuda francês.",
+    "habilidades_testadas": [
+      "leitura",
+      "vocabulario"
+    ]
+  },
+  {
+    "id": "fqq3g6r",
+    "tipo": "texto_livre",
+    "opcoes": [
+      {
+        "id": "u2_o061",
+        "texto_simples": "Transcrição de Áudio"
+      }
+    ],
+    "enunciado": "<p>Ouça o diálogo com atenção no áudio anexo e escreva exatamente o que escutou em pinyin na caixa de texto abaixo:</p>",
+    "midia_anexa": {
+      "url": "/demo-storage/atvdd_laoshi/q06/dialogo01_1786975619932_41tml.mp3",
+      "tipo": "audio"
+    },
+    "pontuacao_maxima": 8,
+    "resposta_esperada": "Tā yě tī zúqiú ma? Bù, tā bù tī zúqiú, tā dǎ lánqiú.",
+    "habilidades_testadas": [
+      "escuta",
+      "escrita"
+    ]
+  },
+  {
+    "id": "eep6tn8",
+    "tipo": "multipla_escolha",
+    "opcoes": [
+      {
+        "id": "7z40gdd",
+        "texto_simples": "A primeira pessoa pergunta quanto dinheiro há dentro da carteira, e a resposta é 83 yuans."
+      },
+      {
+        "id": "7824t14",
+        "texto_simples": "A primeira pessoa pergunta quanto dinheiro há dentro da carteira, e a resposta é 813 yuans."
+      },
+      {
+        "id": "2v9lyl0",
+        "texto_simples": "A primeira pessoa pergunta quanto dinheiro há dentro da carteira, e a resposta é 38 yuans."
+      },
+      {
+        "id": "8kzgf23",
+        "texto_simples": "A primeira pessoa pergunta de quem é a carteira com 18 yuans."
+      }
+    ],
+    "enunciado": "<p>Ouça a breve conversa no áudio anexo e selecione a alternativa que descreve corretamente a pergunta e o valor exato informado:</p>",
+    "midia_anexa": {
+      "url": "/demo-storage/atvdd_laoshi/q07/dialogo02_1786975915643_7wmiy.mp3",
+      "tipo": "audio"
+    },
+    "pontuacao_maxima": 4,
+    "habilidades_testadas": [
+      "escuta",
+      "vocabulario"
+    ],
+    "respostas_corretas_ids": [
+      "7z40gdd"
+    ],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "3qgdg1h",
+    "tipo": "texto_livre",
+    "opcoes": [
+      {
+        "id": "u2_o081",
+        "texto_simples": "Compreensão de Áudio"
+      }
+    ],
+    "enunciado": "<p>Escute o áudio anexo com atenção e responda em português:</p><p>1) Quem a pessoa que chegou está procurando?<br>2) As pessoas procuradas estão presentes naquele local?</p>",
+    "midia_anexa": {
+      "url": "/demo-storage/atvdd_laoshi/q08/dialogo03_1786976552482_bdooh.mp3",
+      "tipo": "audio"
+    },
+    "pontuacao_maxima": 6,
+    "resposta_esperada": "1) Está procurando o Nuno (Nǔnuò) e a Maria (Mǎlìyà). 2) Não, elas não estão aqui, estão lá (outro local).",
+    "habilidades_testadas": [
+      "escuta",
+      "leitura"
+    ]
+  },
+  {
+    "id": "kinibt6",
+    "tipo": "audio_upload",
+    "opcoes": [
+      {
+        "id": "u2_o091",
+        "texto_simples": "Resposta Falada em Mandarim"
+      }
+    ],
+    "enunciado": "<p>Escute a pergunta em mandarim feita pela professora no áudio anexo e grave uma resposta em mandarim dizendo que você tem <strong>4</strong> (do que foi perguntado):</p>",
+    "midia_anexa": {
+      "url": "/demo-storage/atvdd_laoshi/q09/dialogo04_1786976621925_ox6wl.mp3",
+      "tipo": "audio"
+    },
+    "pontuacao_maxima": 7,
+    "habilidades_testadas": [
+      "escuta",
+      "fala"
+    ],
+    "tempo_maximo_segundos": 60
+  },
+  {
+    "id": "14wz0cd",
+    "tipo": "preencher_lacunas",
+    "opcoes": [
+      {
+        "id": "u2_o101",
+        "texto_simples": "shéi"
+      },
+      {
+        "id": "u2_o102",
+        "texto_simples": "nǎr"
+      }
+    ],
+    "enunciado": "<p>Complete as perguntas em mandarim preenchendo as lacunas em pinyin (com tons) com a palavra interrogativa adequada:</p>",
+    "pontuacao_maxima": 3,
+    "texto_com_lacunas": "<p>a) Para perguntar \"Quem é ele?\": Tā shì [___]?</p><p>b) Para perguntar \"Aonde você vai?\": Nǐ qù [___]?</p>",
+    "habilidades_testadas": [
+      "gramatica",
+      "vocabulario"
+    ],
+    "respostas_corretas_por_lacuna": {
+      "lacuna_0": [
+        "shéi",
+        "shei2",
+        "shuí",
+        "shui2"
+      ],
+      "lacuna_1": [
+        "nǎr",
+        "na3r",
+        "nar3",
+        "nǎlǐ",
+        "nǎli",
+        "na3li3",
+        "na3li",
+        "na3 li3",
+        "na3 li",
+        "nǎ'er",
+        "nǎ er",
+        "na3'er",
+        "na3er",
+        "na3 er",
+        "nâr",
+        "nâli",
+        "nâ'er",
+        "nâ er"
+      ]
+    }
+  },
+  {
+    "id": "attrbyl",
+    "tipo": "ordenacao",
+    "opcoes": [
+      {
+        "id": "u2_i111",
+        "texto_simples": "Wǒ (我)"
+      }
+    ],
+    "enunciado": "<p>Organize os blocos abaixo para formar a frase correta em mandarim correspondente a: \"Eu não tenho CDs de francês.\".</p>",
+    "pontuacao_maxima": 3,
+    "ordem_correta_ids": [
+      "4mfhdy8",
+      "icl7ni5",
+      "taw8sew",
+      "enwb5oi"
+    ],
+    "itens_para_ordenar": [
+      {
+        "id": "4mfhdy8",
+        "texto_simples": "Wǒ (我)"
+      },
+      {
+        "id": "icl7ni5",
+        "texto_simples": "méiyǒu (没有)"
+      },
+      {
+        "id": "taw8sew",
+        "texto_simples": "fǎyǔ (法语)"
+      },
+      {
+        "id": "enwb5oi",
+        "texto_simples": "guāngpán (光盘)"
+      }
+    ],
+    "habilidades_testadas": [
+      "gramatica",
+      "leitura"
+    ]
+  },
+  {
+    "id": "oimjy22",
+    "tipo": "preencher_lacunas",
+    "opcoes": [
+      {
+        "id": "u2_o121",
+        "texto_simples": "tī"
+      },
+      {
+        "id": "u2_o122",
+        "texto_simples": "lánqiú"
+      }
+    ],
+    "enunciado": "<p>Preencha as lacunas com o pinyin correto (com tons) do termo adequado:</p>",
+    "pontuacao_maxima": 4,
+    "texto_com_lacunas": "<p>a) \"Ele joga futebol\" &rarr; Tā [___] zúqiú.</p><p>b) \"Ela joga basquete\" &rarr; Tā dǎ [___].</p>",
+    "habilidades_testadas": [
+      "vocabulario",
+      "escrita"
+    ],
+    "respostas_corretas_por_lacuna": {
+      "lacuna_0": [
+        "tī",
+        "ti1"
+      ],
+      "lacuna_1": [
+        "lánqiú",
+        "lán qiú",
+        "lan2qiu2",
+        "lan2 qiu2",
+        "lánqíu",
+        "lán qíu"
+      ]
+    }
+  },
+  {
+    "id": "tchooxc",
+    "tipo": "multipla_escolha",
+    "opcoes": [
+      {
+        "id": "y9u0jru",
+        "texto_simples": "Zhè shì shéi qiánbāo? (这是谁钱包？)"
+      },
+      {
+        "id": "2rf09h5",
+        "texto_simples": "Nà shì shénme qiánbāo? (那是什么钱包？)"
+      },
+      {
+        "id": "8g1zp9o",
+        "texto_simples": "Zhè shì shéi de qiánbāo? (这是谁的钱包？)"
+      },
+      {
+        "id": "g2w1ery",
+        "texto_simples": "Zhè shì nǐ de qiánbāo ma? (这是你的钱包吗？)"
+      }
+    ],
+    "enunciado": "<p>Imagine que você encontrou uma carteira na sala de aula. Qual é a forma gramaticalmente correta em mandarim para perguntar \"De quem é esta carteira?\"?</p>",
+    "pontuacao_maxima": 3,
+    "habilidades_testadas": [
+      "gramatica",
+      "vocabulario"
+    ],
+    "respostas_corretas_ids": [
+      "8g1zp9o"
+    ],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "x6kraq7",
+    "tipo": "multipla_escolha",
+    "opcoes": [
+      {
+        "id": "e0fthfd",
+        "texto_simples": "Qǐng ānqìng (请安静)"
+      },
+      {
+        "id": "82ywv8w",
+        "texto_simples": "Qǐng gēn wǒ chī dàngāo (请跟我吃蛋糕)"
+      },
+      {
+        "id": "08ybubs",
+        "texto_simples": "Qǐng tīng wǒ shuō (请听我说)"
+      },
+      {
+        "id": "1qb7wzn",
+        "texto_simples": "Shǒu dǎ lánqiú (手打篮球)"
+      },
+      {
+        "id": "t0h2ol0",
+        "texto_simples": "Qǐng jǔ shǒu (请举手)"
+      },
+      {
+        "id": "gppcl44",
+        "texto_simples": "Qǐng dà shēng shuō (请大声说)"
+      }
+    ],
+    "enunciado": "<p>Quais das opções abaixo <b>NÃO SÃO</b> comandos ou instruções típicas que um professor diz aos alunos em sala de aula? Selecione todas as alternativas que trazem frases inadequadas ou sem sentido como comandos de aula:</p>",
+    "pontuacao_maxima": 5,
+    "habilidades_testadas": [
+      "leitura",
+      "vocabulario"
+    ],
+    "respostas_corretas_ids": [
+      "82ywv8w",
+      "1qb7wzn"
+    ],
+    "permite_multiplas_respostas": true
+  },
+  {
+    "id": "x84g811",
+    "tipo": "texto_livre",
+    "opcoes": [
+      {
+        "id": "u2_o15_just1",
+        "texto_simples": "Justificativa discursiva"
+      }
+    ],
+    "enunciado": "<p>Na questão anterior, você marcou as opções que <strong>NÃO</strong> representam instruções típicas de um professor em sala de aula. Agora, justifique em português por que essas frases não fazem sentido como comandos escolares típicos.<br><em>(Nota: se você precisar reler as opções, sinta-se livre para voltar à questão anterior e depois avançar novamente!</em></p>",
+    "pontuacao_maxima": 4,
+    "resposta_esperada": "Uma das frases é 'Qǐng gēn wǒ chī dàngāo' (Por favor venha comer bolo comigo), que é um convite de festa e não comando de aula; a outra é 'Shǒu dǎ lánqiú' (A mão joga basquete), que é uma frase desconexa e não um comando do professor.",
+    "habilidades_testadas": [
+      "leitura",
+      "vocabulario"
+    ]
+  },
+  {
+    "id": "mdgrqna",
+    "tipo": "audio_upload",
+    "opcoes": [
+      {
+        "id": "u2_o161",
+        "texto_simples": "Áudio de pronúncia"
+      }
+    ],
+    "enunciado": "<p>Leia a expressão em português abaixo e grave um áudio dizendo exatamente o equivalente em mandarim com boa pronúncia e tons corretos:</p><div><b>\"Feliz aniversário!\"</b></div>",
+    "pontuacao_maxima": 5,
+    "habilidades_testadas": [
+      "fala",
+      "vocabulario"
+    ],
+    "tempo_maximo_segundos": 60
+  },
+  {
+    "id": "v7kxels",
+    "tipo": "ordenacao",
+    "opcoes": [
+      {
+        "id": "u2_i171",
+        "texto_simples": "Wǒmen (我们)"
+      }
+    ],
+    "enunciado": "<p>Organize os blocos para formar a frase em mandarim correspondente a: \"Nós comemos bolo e ouvimos música.\".</p>",
+    "pontuacao_maxima": 4,
+    "ordem_correta_ids": [
+      "5bjuf8o",
+      "ahbskyz",
+      "9kasrj4",
+      "4dbt00d",
+      "noayeca"
+    ],
+    "itens_para_ordenar": [
+      {
+        "id": "5bjuf8o",
+        "texto_simples": "wǒmen (我们)"
+      },
+      {
+        "id": "ahbskyz",
+        "texto_simples": "chī (吃)"
+      },
+      {
+        "id": "9kasrj4",
+        "texto_simples": "dàngāo (蛋糕)"
+      },
+      {
+        "id": "4dbt00d",
+        "texto_simples": "tīng (听)"
+      },
+      {
+        "id": "noayeca",
+        "texto_simples": "yīnyuè (音乐)"
+      }
+    ],
+    "habilidades_testadas": [
+      "gramatica",
+      "vocabulario"
+    ]
+  },
+  {
+    "id": "n99udei",
+    "tipo": "audio_upload",
+    "opcoes": [
+      {
+        "id": "u2_o181",
+        "texto_simples": "Áudio de fala em mandarim"
+      }
+    ],
+    "enunciado": "<p>Grave um áudio dizendo em mandarim a seguinte frase com pronúncia clara e tons corretos:</p><div><b>\"Todos estão muito felizes.\"</b></div>",
+    "pontuacao_maxima": 5,
+    "habilidades_testadas": [
+      "fala",
+      "vocabulario"
+    ],
+    "tempo_maximo_segundos": 60
+  },
+  {
+    "id": "a4czdjj",
+    "tipo": "preencher_lacunas",
+    "opcoes": [
+      {
+        "id": "u2_o191",
+        "texto_simples": "sānshíbā"
+      },
+      {
+        "id": "u2_o192",
+        "texto_simples": "yuán"
+      },
+      {
+        "id": "u2_o193",
+        "texto_simples": "liù"
+      }
+    ],
+    "enunciado": "<p>Complete as respostas em mandarim preenchendo as lacunas em pinyin (com tons) com os números (em pinyin) e termos necessários de acordo com cada contexto:</p>",
+    "pontuacao_maxima": 6,
+    "texto_com_lacunas": "<p>a) Contexto da carteira: \"Quanto dinheiro tem dentro da carteira?\" → Qiánbāo lǐ yǒu duōshao qián?<br>Resposta para a quantia de 27 yuans em dinheiro: Qiánbāo lǐ yǒu [___] [___] qián.</p><p>b) Contexto de contagem: \"Quantos CDs o Pedro tem?\" → Pèidéluó yǒu jǐ zhāng guāngpán?<br>Resposta para a quantia de 6 CDs: Tā yǒu [___] zhāng guāngpán.</p>",
+    "habilidades_testadas": [
+      "vocabulario",
+      "escrita"
+    ],
+    "respostas_corretas_por_lacuna": {
+      "lacuna_0": [
+        "èrshíqì",
+        "èr shí qì",
+        "er4shi2qi4",
+        "er4 shi2 qi4"
+      ],
+      "lacuna_1": [
+        "yuán",
+        "yuan2"
+      ],
+      "lacuna_2": [
+        "liù",
+        "liu4"
+      ]
+    }
+  },
+  {
+    "id": "m9du0mc",
+    "tipo": "audio_upload",
+    "opcoes": [
+      {
+        "id": "rsgw5wh",
+        "texto_simples": "Opção 1"
+      },
+      {
+        "id": "3a9ub8u",
+        "texto_simples": "Opção 2"
+      }
+    ],
+    "enunciado": "<p><strong>Situação hipotética:</strong>&nbsp;Você está apresentando você e seus amigos para um novo colega chinês, contando o que cada um estuda ou joga.</p><p>Pessoas, contexto e instruções:</p><p><strong>- Você</strong>&nbsp;(estuda chinês)<br><strong>- Pedro</strong>&nbsp;(joga futebol)<br><strong>- Maria</strong>&nbsp;(também estuda chinês)</p><ul><li><p>- Diga olá e seu nome.</p></li></ul><ol><li><p>- Diga que você estuda chinês.</p></li><li><p>- Aponte para o Pedro e diga o nome dele e o esporte que ele joga.</p></li><li><p>- Aponte para a Maria, diga o nome dela e que ela&nbsp;<strong>também</strong>&nbsp;estuda chinês.<br>- Ao final, diga que vocês ouvem música, e finalize dizendo que todos estão muito felizes.</p></li><li><p> </p></li><li><p>Não se preocupe em errar! Faça da maneira que conseguir. Se quiser, escreva num caderno e leia, mas recomendo tentar falar de cabeça pra treinar. Coloquei um limite de 5 minutos de áudio, mas creio que será menos.</p></li></ol><p></p>",
+    "pontuacao_maxima": 10,
+    "tempo_maximo_segundos": 300,
+    "respostas_corretas_ids": [],
+    "permite_multiplas_respostas": false
+  }
+]

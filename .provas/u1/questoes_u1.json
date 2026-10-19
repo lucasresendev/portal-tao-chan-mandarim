@@ -1,0 +1,626 @@
+[
+  {
+    "id": "xudphwc",
+    "tipo": "multipla_escolha",
+    "opcoes": [
+      {
+        "id": "46xiexg",
+        "texto_simples": "Ele é o diretor do Pedro."
+      },
+      {
+        "id": "84bppkp",
+        "texto_simples": "Ele é professor."
+      },
+      {
+        "id": "fasfrss",
+        "texto_simples": "Ele é um amigo e estudante do ensino superior."
+      },
+      {
+        "id": "j3tcvqb",
+        "texto_simples": "Ele se chama Pedro."
+      }
+    ],
+    "enunciado": "<p>Leia o texto abaixo e identifique qual afirmação é verdadeira sobre o Wáng Jiāmíng.</p><div>Nǐ hǎo, wǒ jiào Pèidéluó. Tā jiào Wáng Jiāmíng. Wǒmen shì dàxuésheng. Wáng Jiāmíng shì wǒ de péngyou.<br><i>你好，我叫佩德罗。他叫王家明。我们是大学生。王家明是我的朋友。</i></div>",
+    "pontuacao_maxima": 5,
+    "habilidades_testadas": [
+      "leitura"
+    ],
+    "respostas_corretas_ids": [
+      "fasfrss"
+    ],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "oc6tekd",
+    "tipo": "multipla_escolha",
+    "opcoes": [
+      {
+        "id": "xuf2bqg",
+        "texto_simples": "Tā shì lǎoshī ma? (他是老师吗？)"
+      },
+      {
+        "id": "0bylj8l",
+        "texto_simples": "Nǐ jiào shénme míngzi? (你叫什么名字？)"
+      },
+      {
+        "id": "8m4crlm",
+        "texto_simples": "Tā jiào mǎlìyà. (他叫玛利亚)"
+      },
+      {
+        "id": "c0q4enm",
+        "texto_simples": "Tāmen shì wǒ de péngyou. (他们是我的朋友。"
+      }
+    ],
+    "enunciado": "<p>Avalie as frases abaixo, pinyin e hanzi. Qual das opções contém um erro?</p>",
+    "pontuacao_maxima": 5,
+    "habilidades_testadas": [
+      "leitura",
+      "gramatica",
+      "vocabulario"
+    ],
+    "respostas_corretas_ids": [
+      "8m4crlm"
+    ],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "s50xtmi",
+    "tipo": "ordenacao",
+    "opcoes": [
+      {
+        "id": "rg0ap67",
+        "texto_simples": "bù (不)"
+      },
+      {
+        "id": "vaefihb",
+        "texto_simples": "Opção 2"
+      }
+    ],
+    "enunciado": "<p>Organize os blocos de palavras abaixo para formar a frase correta em mandarim correspondente a:</p><p>\"Não, ele não é professor. Ele é diretor.\".</p>",
+    "pontuacao_maxima": 5,
+    "ordem_correta_ids": [
+      "202jfgt",
+      "4ivz8lc",
+      "cfmww8o",
+      "9tsmppu",
+      "ffv8oqu",
+      "pit88ja"
+    ],
+    "itens_para_ordenar": [
+      {
+        "id": "202jfgt",
+        "texto_simples": "bù (不)"
+      },
+      {
+        "id": "4ivz8lc",
+        "texto_simples": "tā (他)"
+      },
+      {
+        "id": "cfmww8o",
+        "texto_simples": "bú shì (不是)"
+      },
+      {
+        "id": "9tsmppu",
+        "texto_simples": "lǎoshī (老师)"
+      },
+      {
+        "id": "ffv8oqu",
+        "texto_simples": "tā shì (他是)"
+      },
+      {
+        "id": "pit88ja",
+        "texto_simples": "xiàozhǎng (校长)"
+      }
+    ],
+    "habilidades_testadas": [
+      "escrita"
+    ],
+    "respostas_corretas_ids": [],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "jsfgik4",
+    "tipo": "preencher_lacunas",
+    "opcoes": [
+      {
+        "id": "3kzu08x",
+        "texto_simples": "Opção 1"
+      },
+      {
+        "id": "s2kpbqk",
+        "texto_simples": "Opção 2"
+      }
+    ],
+    "enunciado": "<p>Leia os pequenos diálogos abaixo e preencha as lacunas digitando a resposta em pinyin, usando o vocabulário adequado para completar a ideia.</p>",
+    "pontuacao_maxima": 5,
+    "texto_com_lacunas": "<p>Diálogo 1: Aluno: Xièxie nǐ! / Professor: [___].</p><p>Diálogo 2: Professor: Tóngxuémen, [___]！) / Alunos: Lǎoshī, zàijiàn!</p>",
+    "habilidades_testadas": [
+      "vocabulario",
+      "leitura",
+      "escrita"
+    ],
+    "respostas_corretas_ids": [],
+    "permite_multiplas_respostas": false,
+    "respostas_corretas_por_lacuna": {
+      "lacuna_0": [
+        "bú kèqi"
+      ],
+      "lacuna_1": [
+        "zàijiàn"
+      ]
+    }
+  },
+  {
+    "id": "q1n34xm",
+    "tipo": "texto_livre",
+    "opcoes": [
+      {
+        "id": "f2h4730",
+        "texto_simples": "Opção 1"
+      },
+      {
+        "id": "x6yggcf",
+        "texto_simples": "Opção 2"
+      }
+    ],
+    "enunciado": "<p>Leia atentamente o parágrafo abaixo em pinyin e escreva a tradução completa para o português na caixa de texto.</p><p>Nǐmen hǎo! Wǒ jiào Wáng Jiāmíng. Tā shì Mǎlìyà, tā shì Pèidéluó. Tāmen shì wǒ de péngyou. Wǒmen shì zhōngxuésheng.<br><i>你们好！我叫王家明。她是玛丽亚，他是佩德罗。他们是我的朋友。我们是中学生。</i></p>",
+    "pontuacao_maxima": 5,
+    "resposta_esperada": "Olá a vocês! Eu me chamo Wang Jiaming. Ela é a Maria, ele é o Pedro. Eles são meus amigos. Nós somos estudantes do ensino secundário.",
+    "habilidades_testadas": [
+      "leitura",
+      "vocabulario"
+    ],
+    "respostas_corretas_ids": [],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "sljcqa3",
+    "tipo": "texto_livre",
+    "opcoes": [
+      {
+        "id": "soi88jw",
+        "texto_simples": "Opção 1"
+      },
+      {
+        "id": "l03ijbv",
+        "texto_simples": "Opção 2"
+      }
+    ],
+    "enunciado": "<p>Ouça o diálogo atentamente e escreva o que escutou em pinyin.</p>",
+    "midia_anexa": {
+      "url": "/demo-storage/atvdd_laoshi/1777155997325_un01_criancas_tashilaoshima_mp3.mp3",
+      "tipo": "audio"
+    },
+    "pontuacao_maxima": 6,
+    "resposta_esperada": "Tā shì lǎoshī ma? Bù, tā bú shì lǎoshī. Tā shì xiàozhǎng.",
+    "texto_com_lacunas": "Tā shì lǎoshī [___]? [___], tā bú shì lǎoshī. Tā [___] xiàozhǎng.",
+    "habilidades_testadas": [
+      "escuta"
+    ],
+    "respostas_corretas_ids": [],
+    "permite_multiplas_respostas": false,
+    "respostas_corretas_por_lacuna": {
+      "lacuna_0": [
+        "ma"
+      ],
+      "lacuna_1": [
+        "bù"
+      ],
+      "lacuna_2": [
+        "shì"
+      ]
+    }
+  },
+  {
+    "id": "m90x9z1",
+    "tipo": "texto_livre",
+    "opcoes": [
+      {
+        "id": "mg10kif",
+        "texto_simples": "Opção 1"
+      },
+      {
+        "id": "qgchq6w",
+        "texto_simples": "Opção 2"
+      }
+    ],
+    "enunciado": "<p>Ouça a saudação no áudio. Na caixa de texto abaixo, escreva em português:</p><p>a) Quem está falando?<br>b) Com quem essa pessoa está falando?<br>c) O que a pessoa pede no final?</p>",
+    "midia_anexa": {
+      "url": "/demo-storage/atvdd_laoshi/1777156370790_un01_linlaoshi_mp3.mp3",
+      "tipo": "audio"
+    },
+    "pontuacao_maxima": 5,
+    "resposta_esperada": "a) A professora Lin.\nb) Com seus alunos.\nc) Para olharem para a lousa.",
+    "habilidades_testadas": [
+      "escuta"
+    ],
+    "respostas_corretas_ids": [],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "5ktquoy",
+    "tipo": "multipla_escolha",
+    "opcoes": [
+      {
+        "id": "aq9vfz4",
+        "texto_simples": "Ele é o professor do Pedro."
+      },
+      {
+        "id": "2noj3oz",
+        "texto_simples": "Ele é o diretor da escola."
+      },
+      {
+        "id": "2exb3g6",
+        "texto_simples": "Ele é um estudante do ensino secundário."
+      },
+      {
+        "id": "ynkmwvc",
+        "texto_simples": "Ele é um colega de trabalho da Maria."
+      },
+      {
+        "id": "eardqqf",
+        "texto_simples": "Ele é amigo da Maria."
+      },
+      {
+        "id": "stfwx6z",
+        "texto_simples": "Ele não é professor."
+      }
+    ],
+    "enunciado": "<p>Ouça a conversa com bastante atenção. De acordo com o áudio selecione todos os itens que são verdadeiros sobre Wáng Jiāmíng.</p>",
+    "midia_anexa": {
+      "url": "/demo-storage/atvdd_laoshi/1777155622143_un01_pedro_maria_mp3.mp3",
+      "tipo": "audio"
+    },
+    "pontuacao_maxima": 5,
+    "habilidades_testadas": [
+      "escuta"
+    ],
+    "respostas_corretas_ids": [
+      "2exb3g6",
+      "stfwx6z",
+      "eardqqf"
+    ],
+    "permite_multiplas_respostas": true
+  },
+  {
+    "id": "kaf588l",
+    "tipo": "audio_upload",
+    "opcoes": [
+      {
+        "id": "vehyblw",
+        "texto_simples": "Opção 1"
+      },
+      {
+        "id": "xybzucd",
+        "texto_simples": "Opção 2"
+      }
+    ],
+    "enunciado": "<p>Escute o áudio e grave uma resposta completa em mandarim.</p>",
+    "midia_anexa": {
+      "url": "/demo-storage/atvdd_laoshi/1777156688757_un01_nishilaoshima_mp3.mp3",
+      "tipo": "audio"
+    },
+    "pontuacao_maxima": 7,
+    "habilidades_testadas": [
+      "escuta",
+      "fala"
+    ],
+    "tempo_maximo_segundos": 60,
+    "respostas_corretas_ids": [],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "8zxjcco",
+    "tipo": "multipla_escolha",
+    "opcoes": [
+      {
+        "id": "pxqiwxc",
+        "texto_simples": "Wǒmen péngyou de (我们朋友的)"
+      },
+      {
+        "id": "v3ivrv9",
+        "texto_simples": "Wǒ de péngyou (我的朋友)"
+      },
+      {
+        "id": "qvb86w1",
+        "texto_simples": "Péngyou de wǒ (朋友的我)"
+      },
+      {
+        "id": "ljbhcez",
+        "texto_simples": "Wǒ péngyou de (我朋友的)"
+      }
+    ],
+    "enunciado": "Qual das opções abaixo está correta para dizer \"meus amigos\"?",
+    "pontuacao_maxima": 5,
+    "habilidades_testadas": [
+      "vocabulario"
+    ],
+    "respostas_corretas_ids": [
+      "v3ivrv9"
+    ],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "0p06xie",
+    "tipo": "ordenacao",
+    "opcoes": [
+      {
+        "id": "yjfphn6",
+        "texto_simples": "Opção 1"
+      },
+      {
+        "id": "7jm5olx",
+        "texto_simples": "Opção 2"
+      }
+    ],
+    "enunciado": "Organize os blocos abaixo para formar a pergunta correta: \"Qual é o seu nome?\".",
+    "pontuacao_maxima": 5,
+    "ordem_correta_ids": [
+      "7vli2km",
+      "3ftv3sq",
+      "yk0f8l2",
+      "1bakn2d",
+      "8qteb7f",
+      "htd76dm",
+      "04yyslz"
+    ],
+    "itens_para_ordenar": [
+      {
+        "id": "7vli2km",
+        "texto_simples": "nǐ (你)"
+      },
+      {
+        "id": "3ftv3sq",
+        "texto_simples": "jiào (叫)"
+      },
+      {
+        "id": "yk0f8l2",
+        "texto_simples": "shén (什)"
+      },
+      {
+        "id": "1bakn2d",
+        "texto_simples": "me (么)"
+      },
+      {
+        "id": "8qteb7f",
+        "texto_simples": "míng (名)"
+      },
+      {
+        "id": "htd76dm",
+        "texto_simples": "zi (字)"
+      },
+      {
+        "id": "04yyslz",
+        "texto_simples": "?"
+      }
+    ],
+    "habilidades_testadas": [
+      "escrita",
+      "gramatica"
+    ],
+    "respostas_corretas_ids": [],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "zizycab",
+    "tipo": "preencher_lacunas",
+    "opcoes": [
+      {
+        "id": "efyceg4",
+        "texto_simples": "Opção 1"
+      },
+      {
+        "id": "dlgf21s",
+        "texto_simples": "Opção 2"
+      }
+    ],
+    "enunciado": "<p>Para transformar uma afirmação em uma pergunta de \"Sim/Não\", adicionamos uma partícula no final da frase. Preencha a lacuna com o pinyin dessa partícula.</p>",
+    "pontuacao_maxima": 5,
+    "texto_com_lacunas": "<p>Tā shì nǐ de péngyou [___]?</p>",
+    "habilidades_testadas": [
+      "gramatica",
+      "vocabulario"
+    ],
+    "respostas_corretas_ids": [],
+    "permite_multiplas_respostas": false,
+    "respostas_corretas_por_lacuna": {
+      "lacuna_0": [
+        "ma"
+      ]
+    }
+  },
+  {
+    "id": "lbjogkv",
+    "tipo": "multipla_escolha",
+    "opcoes": [
+      {
+        "id": "zzwyvp9",
+        "texto_simples": "Tāmen shì xuéshengmen."
+      },
+      {
+        "id": "wuaeonb",
+        "texto_simples": "Tā shì xuéshengmen."
+      },
+      {
+        "id": "aurpgpw",
+        "texto_simples": "Tāmens shì xuésheng"
+      },
+      {
+        "id": "kni9opa",
+        "texto_simples": "Tāmen shì xuésheng."
+      }
+    ],
+    "enunciado": "<p>Qual é a forma correta de se falar \"Elas são estudantes\"?</p>",
+    "pontuacao_maxima": 6,
+    "habilidades_testadas": [
+      "gramatica"
+    ],
+    "respostas_corretas_ids": [
+      "kni9opa"
+    ],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "qwj2k9c",
+    "tipo": "preencher_lacunas",
+    "opcoes": [
+      {
+        "id": "bc32c2d",
+        "texto_simples": "Opção 1"
+      },
+      {
+        "id": "6k3nsku",
+        "texto_simples": "Opção 2"
+      }
+    ],
+    "enunciado": "<p>Na escola, diferentes pessoas têm diferentes funções. Preencha as lacunas com o pinyin adequado para cada pessoa descrita.</p>",
+    "pontuacao_maxima": 5,
+    "texto_com_lacunas": "<p>A pessoa que ensina os alunos é o [___].</p><p>A pessoa que administra a escola é o [___].</p><p>As pessoas que estudam na mesma sala que você são seus [___] (apesar de não ser comum chamar eles assim diretamente).</p>",
+    "habilidades_testadas": [
+      "vocabulario"
+    ],
+    "respostas_corretas_ids": [],
+    "permite_multiplas_respostas": false,
+    "respostas_corretas_por_lacuna": {
+      "lacuna_0": [
+        "lǎoshī"
+      ],
+      "lacuna_1": [
+        "xiàozhǎng"
+      ],
+      "lacuna_2": [
+        "tóngxué"
+      ]
+    }
+  },
+  {
+    "id": "w76glpw",
+    "tipo": "ordenacao",
+    "opcoes": [
+      {
+        "id": "vxf1b06",
+        "texto_simples": "Opção 1"
+      },
+      {
+        "id": "tveainq",
+        "texto_simples": "Opção 2"
+      }
+    ],
+    "enunciado": "<p>Organize os blocos na ordem correta para formar a frase:</p><p>\"Eles não são colegas de classe, eles são meus amigos.\"</p>",
+    "pontuacao_maxima": 5,
+    "ordem_correta_ids": [
+      "mldbip0",
+      "mj1qltd",
+      "zzpzf6a",
+      "2h51ido",
+      "w1e748b",
+      "88jiysd"
+    ],
+    "itens_para_ordenar": [
+      {
+        "id": "mldbip0",
+        "texto_simples": "tāmen"
+      },
+      {
+        "id": "mj1qltd",
+        "texto_simples": "bú shì"
+      },
+      {
+        "id": "zzpzf6a",
+        "texto_simples": "tóngxué"
+      },
+      {
+        "id": "2h51ido",
+        "texto_simples": "tāmen shì"
+      },
+      {
+        "id": "w1e748b",
+        "texto_simples": "wǒ de"
+      },
+      {
+        "id": "88jiysd",
+        "texto_simples": "péngyou"
+      }
+    ],
+    "habilidades_testadas": [
+      "escrita",
+      "vocabulario"
+    ],
+    "respostas_corretas_ids": [],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "qot9n1c",
+    "tipo": "texto_livre",
+    "opcoes": [
+      {
+        "id": "rz87mei",
+        "texto_simples": "Opção 1"
+      },
+      {
+        "id": "zm1oztv",
+        "texto_simples": "Opção 2"
+      }
+    ],
+    "enunciado": "<p>Escute o áudio com atenção e responda em português:</p><p>1) Quem está falando?<br>2) Além dessa pessoa, quantas outras são estudantes?<br>3) Qual a relação entre quem fala, e as outras pessoas de quem fala?</p><p>Contexto: alguns estudantes foram se inscrever para serem voluntários em uma comunidade.</p>",
+    "midia_anexa": {
+      "url": "/demo-storage/atvdd_laoshi/1776996731462_dia_logo___009_lic_a_o_06_mp3.mp3",
+      "tipo": "audio"
+    },
+    "pontuacao_maxima": 6,
+    "resposta_esperada": "1) O Pedro.\n2) 2.\n3) São amigos.",
+    "habilidades_testadas": [
+      "escuta"
+    ],
+    "respostas_corretas_ids": [],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "5q9ods3",
+    "tipo": "texto_livre",
+    "opcoes": [
+      {
+        "id": "bg0nss1",
+        "texto_simples": "Opção 1"
+      },
+      {
+        "id": "xj8pls9",
+        "texto_simples": "Opção 2"
+      }
+    ],
+    "enunciado": "<p>No áudio, dois amigos estão falando de um grupo de pessoas, e em seguida falam de uma pessoa fora desse grupo. Descreva em português a conversa, as perguntas e as respostas de acordo com o que você entender.</p>",
+    "midia_anexa": {
+      "url": "/demo-storage/atvdd_laoshi/1776997162171_dia_logo___008_lic_a_o_05_mp3.mp3",
+      "tipo": "audio"
+    },
+    "pontuacao_maxima": 6,
+    "resposta_esperada": "O primeiro pergunta se elas (o grupo) são estudantes, e o segundo responde que sim. Em seguida, o primeiro pergunta se ele (a pessoa fora do grupo) é professor, mas o segundo responde que não, que ele é o diretor.",
+    "habilidades_testadas": [
+      "escuta"
+    ],
+    "respostas_corretas_ids": [],
+    "permite_multiplas_respostas": false
+  },
+  {
+    "id": "kgty7r9",
+    "tipo": "audio_upload",
+    "opcoes": [
+      {
+        "id": "8rkunxm",
+        "texto_simples": "Opção 1"
+      },
+      {
+        "id": "s43lfng",
+        "texto_simples": "Opção 2"
+      }
+    ],
+    "enunciado": "<p>Situação hipotética: você foi para o Ano Novo Chinês na Liberdade, e surgiu a oportunidade de falar com um comerciante que fala chinês. Você está com seus amigos:<br></p><p>- Lin (lǎoshī)<br>- Maria (tóngxué)<br>- Nuno (tóngxué)</p><p>Diga olá, fale seu nome, apresente como se chama cada amigo (como se você estivesse apontando para eles), o que são, e ao final, fale que são seus amigos.</p><p>Exemplo em português: Olá, eu me chamo NOME. Ela se chama Lin, ela é minha professora. Ela se chama Maria, ele se chama Nuno, eles são meus colegas. Nós somos amigos.</p>",
+    "pontuacao_maxima": 9,
+    "habilidades_testadas": [
+      "fala"
+    ],
+    "tempo_maximo_segundos": 120,
+    "respostas_corretas_ids": [],
+    "permite_multiplas_respostas": false
+  }
+]
