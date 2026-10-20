@@ -1,4 +1,10 @@
-// app/layout.tsx
+/**
+ * Copyright (c) 2026 Lucas Resende (lucasresendev)
+ * https://github.com/lucasresendev/portal-tao-chan-mandarim
+ *
+ * Licensed under the PolyForm Noncommercial License 1.0.0. See LICENSE and ATTRIBUTION.md in the project root.
+ */
+
 import '@/lib/demo/supabaseSandbox';
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";

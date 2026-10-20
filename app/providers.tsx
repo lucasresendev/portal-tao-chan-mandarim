@@ -71,7 +71,11 @@ export default function Providers({ children }: { children: React.ReactNode }) {
         {children}
         <PortfolioDemoBar />
       </NavbarProvider>
-      <ReactQueryDevtools initialIsOpen={false} />
+      {process.env.NODE_ENV === 'development' && (
+        <div id="tcm-rq-devtools">
+          <ReactQueryDevtools initialIsOpen={false} />
+        </div>
+      )}
     </QueryClientProvider>
   );
 }
