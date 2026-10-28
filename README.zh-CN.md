@@ -8,7 +8,7 @@
   ### **专为巴西中文学习者打造的沉浸式互动教学平台：融合视频课程、FSRS v4.5 间隔重复闪卡、声调词典、网页端语音对话模拟以及多题型在线评估系统。**
 
   [![在线演示](https://img.shields.io/badge/在线演示-mandarim.lucasresende.com-8a1818?style=for-the-badge&logo=cloudflare&logoColor=white)](https://mandarim.lucasresende.com)
-  [![Next.js](https://img.shields.io/badge/Next.js-16.2-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
+  [![Next.js](https://img.shields.io/badge/Next.js-16.4-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
   [![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
@@ -136,7 +136,7 @@
 
 | 系统层级 | 核心技术与开发库 |
 | :--- | :--- |
-| **前端框架 & 界面** | [Next.js 16.2 (App Router)](https://nextjs.org/), [React 19.2](https://react.dev/), [TypeScript 5](https://www.typescriptlang.org/), [Tailwind CSS v4](https://tailwindcss.com/) |
+| **前端框架 & 界面** | [Next.js 16.4 (App Router)](https://nextjs.org/), [React 19.2](https://react.dev/), [TypeScript 5](https://www.typescriptlang.org/), [Tailwind CSS v4](https://tailwindcss.com/) |
 | **状态管理与数据缓存** | [TanStack React Query v5](https://tanstack.com/query/latest) (支持乐观 UI 更新与分层 `staleTime` 缓存策略) |
 | **后端云服务 & 身份认证** | [Supabase](https://supabase.com/) (PostgreSQL, Row-Level Security, Auth) + 本地零后端沙盒 |
 | **间隔重复与交互手势** | [`ts-fsrs` v5 (FSRS v4.5 算法)](https://github.com/open-spaced-repetition/ts-fsrs), [`@dnd-kit`](https://dndkit.com/) (可访问触摸拖拽排序) |

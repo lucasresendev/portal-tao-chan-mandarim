@@ -6,7 +6,7 @@ O portal **Tao Ch'an Mandarim** é um ecossistema de aprendizado de idiomas web-
 
 | Camada | Tecnologia | Detalhes & Configurações de Engenharia |
 | :--- | :--- | :--- |
-| **Core Framework** | `Next.js 16.2.3` | App Router, Server Actions, Dynamic Middleware, API Route Handlers |
+| **Core Framework** | `Next.js 16.4.3` | App Router, Server Actions, Dynamic Middleware, API Route Handlers |
 | **Biblioteca de UI** | `React 19.2.4` | Server & Client Components, Hooks (`useMemo`, `useCallback`, `useRef`, `useEffect`) |
 | **Estilização** | `Tailwind CSS v4` | Configuração CSS-First, CSS Variables nativas, design system responsivo e harmonioso |
 | **BaaS / Backend** | `Supabase` | PostgreSQL, Supabase Auth Helpers (`@supabase/auth-helpers-nextjs`), Row Level Security (RLS) |

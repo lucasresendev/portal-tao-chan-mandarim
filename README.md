@@ -8,7 +8,7 @@
   ### **An interactive learning platform designed for Brazilian Mandarin students, combining video lessons, FSRS v4.5 spaced repetition flashcards, a tonal dictionary, turn-based audio dialogue simulation, and multi-format interactive exams.**
 
   [![Live Demo](https://img.shields.io/badge/Live_Demo-mandarim.lucasresende.com-8a1818?style=for-the-badge&logo=cloudflare&logoColor=white)](https://mandarim.lucasresende.com)
-  [![Next.js](https://img.shields.io/badge/Next.js-16.2-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
+  [![Next.js](https://img.shields.io/badge/Next.js-16.4-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
   [![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
@@ -138,7 +138,7 @@ To protect the privacy of real students in production while allowing anyone to t
 
 | Layer | Technologies & Libraries |
 | :--- | :--- |
-| **Framework & UI** | [Next.js 16.2 (App Router)](https://nextjs.org/), [React 19.2](https://react.dev/), [TypeScript 5](https://www.typescriptlang.org/), [Tailwind CSS v4](https://tailwindcss.com/) |
+| **Framework & UI** | [Next.js 16.4 (App Router)](https://nextjs.org/), [React 19.2](https://react.dev/), [TypeScript 5](https://www.typescriptlang.org/), [Tailwind CSS v4](https://tailwindcss.com/) |
 | **State & Data Fetching** | [TanStack React Query v5](https://tanstack.com/query/latest) (Optimistic UI updates & tiered `staleTime` caching) |
 | **Backend & Auth** | [Supabase](https://supabase.com/) (PostgreSQL, Row-Level Security, Auth Helpers, Storage) + Custom Zero-Backend Sandbox |
 | **Spaced Repetition & Drag-and-Drop** | [`ts-fsrs` v5 (FSRS v4.5)](https://github.com/open-spaced-repetition/ts-fsrs), [`@dnd-kit`](https://dndkit.com/) (Accessible tactile sorting) |

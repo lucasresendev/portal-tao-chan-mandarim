@@ -8,7 +8,7 @@
   ### **Plataforma educacional interativa criada para estudantes brasileiros de Mandarim, unindo videoaulas, flashcards com repetição espaçada FSRS v4.5, dicionário tonal, simulador de conversação com gravação de voz e provas interativas em múltiplos formatos.**
 
   [![Demo Online](https://img.shields.io/badge/Demo_Online-mandarim.lucasresende.com-8a1818?style=for-the-badge&logo=cloudflare&logoColor=white)](https://mandarim.lucasresende.com)
-  [![Next.js](https://img.shields.io/badge/Next.js-16.2-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
+  [![Next.js](https://img.shields.io/badge/Next.js-16.4-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
   [![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
@@ -138,7 +138,7 @@ Para preservar 100% da privacidade dos alunos reais e, ao mesmo tempo, permitir 
 
 | Camada | Tecnologias & Bibliotecas |
 | :--- | :--- |
-| **Framework & UI** | [Next.js 16.2 (App Router)](https://nextjs.org/), [React 19.2](https://react.dev/), [TypeScript 5](https://www.typescriptlang.org/), [Tailwind CSS v4](https://tailwindcss.com/) |
+| **Framework & UI** | [Next.js 16.4 (App Router)](https://nextjs.org/), [React 19.2](https://react.dev/), [TypeScript 5](https://www.typescriptlang.org/), [Tailwind CSS v4](https://tailwindcss.com/) |
 | **Estado & Cache** | [TanStack React Query v5](https://tanstack.com/query/latest) (Atualizações otimistas e cache estratificado por `staleTime`) |
 | **Backend & Auth** | [Supabase](https://supabase.com/) (PostgreSQL, Row-Level Security, Auth Helpers, Storage) + Sandbox Local Zero-Backend |
 | **Repetição Espaçada & Drag-and-Drop** | [`ts-fsrs` v5 (FSRS v4.5)](https://github.com/open-spaced-repetition/ts-fsrs), [`@dnd-kit`](https://dndkit.com/) (Ordenação tátil acessível) |
